@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://imecaubi.github.io/WJD/sitemap_index.txt
+Sitemap: https://imecaubi.github.io/XKQ/sitemap_index.txt
+Sitemap: https://imecaubi.github.io/aNM/sitemap_index.txt
+Sitemap: https://imecaubi.github.io/kmd/sitemap_index.txt
